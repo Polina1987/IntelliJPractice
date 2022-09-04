@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntelliJPractice:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntelliJPractice_jar</output-path>
+    <root id="archive" name="IntelliJPractice.jar">
+      <element id="module-output" name="IntelliJPractice" />
+    </root>
+  </artifact>
+</component>
